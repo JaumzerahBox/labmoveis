@@ -1,4 +1,6 @@
 {
+  "cursos": [
+    {
         id: '1',
         referral: 'https://gleam.io/nffyC/duckie-land-nft-giveaway?gsr=nffyC-3pxKkitF2z',
         title: 'Duckie Land',
@@ -105,4 +107,5 @@
         data_final: '2022-4-7',
         image_url: 'https://user-assets.out.sh/user-assets/1796304/Apj4ddp0sgNTUhpC/gatesofethernity_teaser_thumbnail.jpg'
         
-    }
+    }]
+}
