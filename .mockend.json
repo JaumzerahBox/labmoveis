@@ -1,0 +1,31 @@
+   {
+  "Usuário" : { 
+    "nome" : { 
+      "cadeia" : { } 
+    } ,
+    "avatarUrl" : { 
+      "regexp" : "https://i\\.pravatar\\.cc/150?u=[0-9]{5}" 
+    } ,
+    "statusMessage" : { 
+      "cadeia" : [ 
+        "trabalhando em casa" ,
+        "assistindo Netflix"
+      ]
+    } ,
+    "e-mail" : { 
+      "regexp" : "#[az]{5,10}@[az]{5}\\.[az]{2,3}" 
+    } ,
+    "cor" : { 
+      "regexp" : "#[0-9A-F]{6}" 
+    } ,
+    "idade" : { 
+      "int" : { 
+        "min" : 21 , 
+        "máximo" : 100 
+      }
+    } ,
+    "éPúblico" : { 
+      "booleano" : { } 
+    }
+  }
+}
