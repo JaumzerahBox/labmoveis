@@ -1,12 +1,12 @@
 {
   "cursos": [
     {
-        id: '1',
-        referral: 'https://gleam.io/nffyC/duckie-land-nft-giveaway?gsr=nffyC-3pxKkitF2z',
-        title: 'Duckie Land',
-        tipo: 'Whitelist', 
-        data_final: '2022-4-12',
-        image_url: 'https://user-assets.out.sh/user-assets/1898245/6GGiMcbs2fsK8isH/upload.jpg'
+        "id": "1",
+        "referral": "https://gleam.io/nffyC/duckie-land-nft-giveaway?gsr=nffyC-3pxKkitF2z",
+        "title": "Duckie Land",
+        "tipo": "Whitelist", 
+        "data_final": "2022-4-12",
+        image_url: "https://user-assets.out.sh/user-assets/1898245/6GGiMcbs2fsK8isH/upload.jpg"
 
     },
     {
